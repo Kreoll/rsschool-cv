@@ -1,26 +1,23 @@
 # rsschool-cv
 
-# **ALexandr Stasiuk**
+# **Alexandr Stasiuk**
 
-===
 
 ## **My contacts**
 
-===
-**Telefon:**+48 507-656-088
-**Email:** (po4emyto@gmail.com)
-[**GitHub:**] (https://github.com/Kreoll)
-===
+
+* **Telefon:**+48 507-656-088
+* **Email:** (po4emyto@gmail.com)
+* **GitHub:** (https://github.com/Kreoll)
+
 
 ## **About ME**
 
-===
+
 I want to learn Front-End Development
-===
 
 ## **Code example:**
 
-===
 
 ```
 .form-group input,
@@ -37,11 +34,9 @@ I want to learn Front-End Development
 }
 ```
 
-===
 
 ## **Skills**
 
-===
 
 - HTML(Basic)
 - CSS(Basic)
@@ -49,23 +44,18 @@ I want to learn Front-End Development
 
 ## **Experience**
 
-===
 
 ## **Education**
 
-===
 
-- Minsk State Polytechnic College
+1. Minsk State Polytechnic College
 
-- **Courses**
+2. **Courses:**
+- [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [webDev](https://www.youtube.com/c/YauhenKavalchuk)
+- [Владилен Минин](https://www.youtube.com/c/VladilenMinin)
 
-1. [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-2. [webDev](https://www.youtube.com/c/YauhenKavalchuk)
-3. # [Владилен Минин](https://www.youtube.com/c/VladilenMinin)
-
-===
 
 ## **English**
 
-===
 A1
