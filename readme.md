@@ -1,1 +1,1 @@
-https://kreoll.github.io/rsschool-cv/cv
+https://github.com/Kreoll/rsschool-cv/blob/gh-pages/CV.md
